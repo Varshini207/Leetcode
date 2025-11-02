@@ -1,9 +1,12 @@
-class Solution:
-  def twoSum(self, nums,target):
-    seen = {}   # dictionary to store value : index
-    for i, num in enumerate(nums):
-        diff = target - num
-        if diff in seen:   # check if we’ve already seen the complement
-            return [seen[diff], i]
-        seen[num] = i
-    return []
+class Solution(object):
+    def twoSum(self, nums, target):
+        n=[]
+        l=len(nums)
+    
+        for i in range(l):
+            for j in range(i+1,l):
+                if nums[i]+nums[j]==target:
+                    n.append(i)
+                    n.append(j)
+                   
+        return (n)
