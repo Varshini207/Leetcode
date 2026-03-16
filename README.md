@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Varshini207/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Varshini207/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Varshini207/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Varshini207/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Varshini207/Leetcode/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/Varshini207/Leetcode/tree/master/0507-perfect-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Varshini207/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varshini207/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Varshini207/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
