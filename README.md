@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Varshini207/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varshini207/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Varshini207/Leetcode/tree/master/0217-contains-duplicate) |
+| [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varshini207/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Varshini207/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Varshini207/Leetcode/tree/master/0217-contains-duplicate) |
+| [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Varshini207/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Varshini207/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
+| [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Varshini207/Leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
