@@ -1,17 +1,17 @@
 class Solution(object):
     def judgeCircle(self, moves):
-        r,l,u,d=0,0,0,0
-        for i in range(len(moves)):
-            n=moves[i]
+        i,j=0,0
+        for o in range(len(moves)):
+            n=moves[o]
             if n=='R':
-                r+=1
+                i+=1
             if n=='L':
-                l+=1
+                i-=1
             if n=='U':
-                u+=1
+                j+=1
             if n=='D':
-                d+=1
-        if l==r and u==d:
+                j-=1
+        if i==0 and j==0:
             return True
         else:
             return False
