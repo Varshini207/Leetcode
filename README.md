@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Varshini207/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Varshini207/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Varshini207/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Varshini207/Leetcode/tree/master/0217-contains-duplicate) |
 | [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Varshini207/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Varshini207/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Varshini207/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Varshini207/Leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Varshini207/Leetcode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Varshini207/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Varshini207/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Varshini207/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Varshini207/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
 ## Combinatorics
 |  |
