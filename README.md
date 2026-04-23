@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Varshini207/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Varshini207/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Varshini207/Leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Varshini207/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Varshini207/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varshini207/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Varshini207/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Varshini207/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Varshini207/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Varshini207/Leetcode/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
