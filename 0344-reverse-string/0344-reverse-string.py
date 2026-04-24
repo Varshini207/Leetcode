@@ -1,13 +1,10 @@
 class Solution(object):
     def reverseString(self,s):
-        #return s.reverse()==True
-        a=len(s)-1
-        b=0
-        m=len(s)//2
-        while b!=m:
-            t=s[b]
-            s[b]=s[a]
-            s[a]=t
-            a-=1
-            b+=1
-        return s
+        l=0
+        r=len(s)-1
+        while l<(len(s)/2)+1 and r>(len(s)/2)-1:
+            t=s[l]
+            s[l]=s[r]
+            s[r]=t    
+            l+=1
+            r-=1 
