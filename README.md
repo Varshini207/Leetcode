@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Varshini207/Leetcode/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Varshini207/Leetcode/tree/master/0896-monotonic-array) |
 | [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshini207/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Varshini207/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1768-merge-strings-alternately](https://github.com/Varshini207/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/Varshini207/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshini207/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Varshini207/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Varshini207/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Varshini207/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshini207/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Combinatorics
 |  |
 | ------- |
