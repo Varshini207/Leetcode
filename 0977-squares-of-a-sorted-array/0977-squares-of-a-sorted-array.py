@@ -4,10 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        s=[]
-        for i in nums:
-            s.append(i*i)
-        s.sort()
-        return s
+        i=0
+        while i<len(nums):
+            nums[i]*=nums[i]
+            i+=1
+        nums.sort()
+        return nums
 
         
