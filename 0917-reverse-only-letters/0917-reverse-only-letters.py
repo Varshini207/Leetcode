@@ -7,9 +7,9 @@ class Solution(object):
         s=list(s)
         l,r=0,len(s)-1
         while l<r:
-            if s[l].isalpha()==False:
+            if not s[l].isalpha():
                 l+=1
-            elif s[r].isalpha()==False:
+            elif not s[r].isalpha():
                 r-=1
             else:
                 s[l],s[r]=s[r],s[l]
