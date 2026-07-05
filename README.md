@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Varshini207/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Varshini207/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Varshini207/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Varshini207/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Varshini207/Leetcode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Varshini207/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Varshini207/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Varshini207/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Varshini207/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Divide and Conquer
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Varshini207/Leetcode/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Varshini207/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
