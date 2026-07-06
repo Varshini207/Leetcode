@@ -11,5 +11,5 @@ class Solution(object):
             a.append(s)
         return a'''
         for l in range(1,len(nums)):
-            nums[l]=nums[l]+nums[l-1]
+            nums[l]+=nums[l-1]
         return nums
