@@ -10,8 +10,6 @@ class Solution(object):
             s+=nums[i]
             a.append(s)
         return a'''
-        l=1
-        while l<len(nums):
+        for l in range(1,len(nums)):
             nums[l]=nums[l]+nums[l-1]
-            l+=1
         return nums
